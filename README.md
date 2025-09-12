@@ -2,8 +2,6 @@
 # Portfólio de Pesquisa — Natalia Emelianova
 
 Bem-vindo ao meu repositório de portfólio!  
-Aqui você encontra meus principais projetos em **Segurança de Redes IoT** e **Energia Renovável**.  
-O site está publicado em: 👉 [GitHub Pages](https://nataliaemelianova.github.io/Natali-github/)
 
 ---
 
