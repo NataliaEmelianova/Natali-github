@@ -13,7 +13,7 @@ O site está publicado em: 👉 [GitHub Pages](https://nataliaemelianova.github.
 Este projeto investiga o uso de **Kolmogorov-Arnold Networks (KANs)** em sistemas de detecção de intrusões em redes IoT.  
 A abordagem busca maior **explicabilidade** e **eficiência** em comparação com MLPs clássicos.
 
-- 📄 [Artigo publicado]([https://arxiv.org/abs/2404.19756](https://doi.org/10.5753/sbseg.2025.9767))  
+- 📄 [Artigo publicado](https://doi.org/10.5753/sbseg.2025.9767)  
 - 💻 [Repositório com código-fonte](https://github.com/NataliaEmelianova/meu-repo-kan_IoT)  
 - 🌍 [Página do projeto](https://github.com/NataliaEmelianova/Natali-github/tree/main/project1)
 
