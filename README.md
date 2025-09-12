@@ -24,14 +24,19 @@ Estudo sobre modelagem e simulação do desempenho de turbinas eólicas, conside
 - Constantes físicas usadas:  
   - Densidade do ar: ρ = 1.20 kg/m³  
   - Raio do rotor: R = 41 m  
-  - Área varrida: A = 5.281 m²  
+  - Área varrida: A = 5.281 m²
 
-- [Artigo / referência 1](https://doi.org/10.1049/iet-rpg.2019.1162) 
-- [Artigo / referência 2](https://doi.org/10.1049/iet-rpg.2019.1162)
-- [Artigo / referência 3](https://doi.org/10.3390/en16062774)
-- [Artigo / referência 4](https://www.researchgate.net/publication/344375629_A_Contribution_to_the_Design_and_the_Installation_of_an_Universal_Platform_of_a_Wind_Emulator_Using_a_DC_Motor)
-- [Repositório com simulações](https://github.com/NataliaEmelianova/meu-repo-turbina)  
-- [Página do projeto](https://nataliaemelianova.github.io/Natali-github/project2/)
+#### Referências
+
+1. [Prediction of wind turbines power with physics-informed neural networks and evidential uncertainty quantification](https://arxiv.org/abs/2307.14675)
+2. [Repositório "WindTurbines_PINNs"](https://github.com/alfonsogijon/WindTurbines_PINNs)
+3. [Wind turbine power coefficient models based on neural networks and polynomial fitting](https://doi.org/10.1049/iet-rpg.2019.1162) 
+4. [Comparison of Power Coefficients in Wind Turbines Considering the Tip Speed Ratio and Blade Pitch Angle ](https://doi.org/10.3390/en16062774)
+5. [A Contribution to the Design and the Installation of an Universal Platform of a Wind Emulator Using a DC Motor](https://www.researchgate.net/publication/344375629_A_Contribution_to_the_Design_and_the_Installation_of_an_Universal_Platform_of_a_Wind_Emulator_Using_a_DC_Motor)
+6. [Wind Energy Handbook](https://www.amazon.com.br/Wind-Energy-Handbook-Tony-Burton/dp/0470699752)
+7. [Aerodynamics of Horizontal Axis Wind Turbines ](https://link.springer.com/chapter/10.1007/978-3-540-88258-9_1)
+
+- [Página do nosso projeto](https://nataliaemelianova.github.io/Natali-github/project2/)
 
 ---
 
