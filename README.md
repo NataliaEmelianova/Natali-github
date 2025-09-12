@@ -7,10 +7,11 @@ Bem-vindo ao meu repositório de portfólio!
 
 ## Projetos
 
-### 1. IDS em IoT com Kolmogorov–Arnold Networks (KANs)
+### 1. IDS em IoT com [Kolmogorov–Arnold Networks (KANs)](https://github.com/KindXiaoming/pykan)
 Este projeto investiga o uso de **Kolmogorov-Arnold Networks (KANs)** em sistemas de detecção de intrusões em redes IoT.  
 A abordagem busca maior **explicabilidade** e **eficiência** em comparação com MLPs clássicos.
 
+- [Artigo / referencia](https://arxiv.org/abs/2404.19756)
 - [Artigo publicado](https://doi.org/10.5753/sbseg.2025.9767)  
 - [Repositório com código-fonte](https://github.com/NataliaEmelianova/meu-repo-kan_IoT)  
 - [Página do projeto](https://github.com/NataliaEmelianova/Natali-github/tree/main/project1)
