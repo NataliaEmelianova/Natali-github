@@ -15,7 +15,7 @@ A abordagem busca maior **explicabilidade** e **eficiência** em comparação co
 
 - 📄 [Artigo publicado]([https://arxiv.org/abs/2404.19756](https://doi.org/10.5753/sbseg.2025.9767))  
 - 💻 [Repositório com código-fonte](https://github.com/NataliaEmelianova/meu-repo-kan_IoT)  
-- 🌍 [Página do projeto](https://nataliaemelianova.github.io/Natali-github/project1/)
+- 🌍 [Página do projeto](https://github.com/NataliaEmelianova/Natali-github/tree/main/project1)
 
 ---
 
