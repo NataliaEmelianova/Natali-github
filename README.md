@@ -36,7 +36,7 @@ Estudo sobre modelagem e simulação do desempenho de turbinas eólicas, conside
 6. [Wind Energy Handbook](https://www.amazon.com.br/Wind-Energy-Handbook-Tony-Burton/dp/0470699752)
 7. [Aerodynamics of Horizontal Axis Wind Turbines ](https://link.springer.com/chapter/10.1007/978-3-540-88258-9_1)
 
-- [Página do nosso projeto](https://github.com/NataliaEmelianova/Natali-github/tree/main/project2))
+- [Página do nosso projeto](https://github.com/NataliaEmelianova/Natali-github/tree/main/project2)
 
 ---
 
