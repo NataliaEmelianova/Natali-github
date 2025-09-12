@@ -1,0 +1,12 @@
+title: "Natalia Emelianova"
+description: "Portfólio de Pesquisa"
+theme: jekyll-theme-minimal
+
+# меню сайта
+nav:
+  - name: "Início"
+    link: /
+  - name: "IDS IoT com KANs"
+    link: /project1/
+  - name: "Turbinas Eólicas"
+    link: /project2/
