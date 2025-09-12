@@ -26,7 +26,9 @@ Estudo sobre modelagem e simulação do desempenho de turbinas eólicas, conside
   - Raio do rotor: R = 41 m  
   - Área varrida: A = 5.281 m²  
 
-- [Artigo / referência](https://link-do-artigo.com)  
+- [Artigo / referência 1](https://doi.org/10.1049/iet-rpg.2019.1162) 
+- [Artigo / referência 2](https://doi.org/10.1049/iet-rpg.2019.1162)
+- [Artigo / referência 3](https://doi.org/10.3390/en16062774)
 - [Repositório com simulações](https://github.com/NataliaEmelianova/meu-repo-turbina)  
 - [Página do projeto](https://nataliaemelianova.github.io/Natali-github/project2/)
 
