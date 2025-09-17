@@ -12,7 +12,7 @@ Este projeto investiga o uso de **Kolmogorov-Arnold Networks (KANs)** em sistema
 A abordagem busca maior **explicabilidade** e **eficiência** em comparação com MLPs clássicos.
 
 - [Artigo / referencia](https://arxiv.org/abs/2404.19756)
-- [Artigo publicado](https://doi.org/10.5753/sbseg.2025.9767)  
+- [Artigo publicado](https://doi.org/10.5753/sbseg.2025.9767)
 - [Página do projeto](https://github.com/NataliaEmelianova/Natali-github/tree/main/project1)
 
 ---
