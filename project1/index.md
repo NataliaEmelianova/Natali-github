@@ -16,9 +16,9 @@ Os experimentos foram realizados utilizando o **CIC IoT 2023 Dataset**, desenvol
  Link oficial: [CIC IoT 2023 Dataset](https://www.unb.ca/cic/datasets/iotdataset-2023.html)
 
 ---
-## 📓 Notebooks
+## Notebooks
 
 - [Dados_balans.ipynb](./notebooks/Dados_balans.ipynb) — pré-processamento e balanceamento dos dados
-- [Outro Notebook](./notebooks/outro_notebook.ipynb) — descrição aqui
+
 
   
