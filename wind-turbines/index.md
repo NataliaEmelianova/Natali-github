@@ -1,4 +1,4 @@
-[Início](/) • [IDS IoT com KANs](/project1/) • [Turbinas Eólicas](/project2/)
+[Início](/) • [IDS IoT com KANs](/ids-iot/) • [Turbinas Eólicas](/wind-turbines/)
 
 Este projeto explora modelos e simulações para análise do desempenho de turbinas eólicas.
 
@@ -7,8 +7,8 @@ Constantes físicas usadas:
 - Raio do rotor: R = 41 m  
 - Área varrida: A = 5.281 m²
 
-[Artigo / referência](https://arxiv.org/abs/2307.14675)  
-[Códigos e simulações](https://github.com/alfonsogijon/WindTurbines_PINNs)
+[Artigo de referência (PINNs)](https://arxiv.org/abs/2307.14675)  
+[Códigos e simulações base](https://github.com/alfonsogijon/WindTurbines_PINNs)
 
 ---
 
@@ -16,7 +16,7 @@ Constantes físicas usadas:
 
 Com base nos modelos físicos anteriores, desenvolvemos uma nova arquitetura utilizando **Kolmogorov-Arnold Networks (KANs)** para a identificação de parâmetros operacionais a partir de dados industriais SCADA. 
 
-O modelo realiza uma destilação simbólica, transformando a rede neural em equações matemáticas explícitas (closed-form expressions) com alta precisão ($R^2 > 0.999$) и total explicabilidade física.
+O modelo realiza uma destilação simbólica, transformando a rede neural em equações matemáticas explícitas (closed-form expressions) com alta precisão ($R^2 > 0.999$) e total explicabilidade física.
 
 * **Artigo Aceito (BRACIS 2026):** *Wind Turbine Parameter Identification through Kolmogorov-Arnold Networks and Symbolic Distillation*
 * **Autores:** Natalia Emelianova, Ronaldo C. Prati (UFABC)
@@ -32,4 +32,3 @@ O modelo realiza uma destilação simbólica, transformando a rede neural em equ
   year={2026},
   publisher={Springer}
 }
-
